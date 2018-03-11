@@ -1,0 +1,5 @@
+- hosts: ubuntu
+  become: yes
+  tasks: 
+    - name: Install mySQL server
+      yum: name=mysql-server state=latest
