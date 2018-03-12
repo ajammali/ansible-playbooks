@@ -1,0 +1,21 @@
+--- # This playbook is about notification and handlign events
+- hosts: centos
+  remote_user: ansible
+  become: yes
+  become_method: sudo
+  connection: ssh
+  gather_facts: yes
+  tasks:
+    - name: install nginx web server
+      yum: 
+        name: nginx
+        state: latest
+      notify: 
+      - enable and start the nginx service
+  handlers:
+    - name: enable and start the nginx service
+      service: 
+        name: nginx
+        enabled: yes
+        state: restarted
+    - debug: var=result

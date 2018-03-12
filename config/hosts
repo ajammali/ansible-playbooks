@@ -1,8 +1,0 @@
-[ubuntu]
-localhost:2202
-
-[centos]
-localhost:2200
-
-[fedora]
-localhost:2202

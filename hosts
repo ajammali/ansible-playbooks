@@ -1,0 +1,9 @@
+[ubuntu]
+localhost:2201
+
+[centos]
+localhost:2222
+
+[fedora]
+localhost:2200
+

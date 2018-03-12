@@ -1,0 +1,12 @@
+- hosts: fedora
+  become: yes
+  become_method: sudo
+  connection: ssh
+  gather_facts: yes
+  vars: 
+    username: ansible
+  tasks:
+    - name: install nginx on fedora
+      yum: 
+        name: telnet
+        state: latest

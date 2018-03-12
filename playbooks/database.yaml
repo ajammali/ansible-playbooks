@@ -2,4 +2,4 @@
   become: yes
   tasks: 
     - name: Install mySQL server
-      yum: name=mysql-server state=latest
+      apt: name=mysql-server state=latest
