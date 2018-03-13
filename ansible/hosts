@@ -1,0 +1,11 @@
+[centos]
+127.0.0.1:2222
+
+[fedora]
+127.0.0.1:2200
+
+[ubuntu14]
+127.0.0.1:2201
+
+[control]
+control ansible_connection=local

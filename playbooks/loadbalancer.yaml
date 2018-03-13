@@ -1,4 +1,4 @@
-- hosts: fedora
+- hosts: centos
   become: yes
   become_method: sudo
   connection: ssh
@@ -8,5 +8,5 @@
   tasks:
     - name: install nginx on fedora
       yum: 
-        name: telnet
+        name: nginx
         state: latest
