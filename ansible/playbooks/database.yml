@@ -1,6 +1,6 @@
-- hosts: fedora
+- hosts: ubuntu
   become: yes
   become_method: sudo
   tasks: 
-    - name: Install mariadb-mysql server
-      yum: name=mariadb state=latest
+    - name: Install mysql server
+      yum: name=mysql-server state=latest

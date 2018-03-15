@@ -1,9 +1,15 @@
-[ubuntu]
-localhost:2201
-
-[centos]
+[network]
 localhost:2222
 
-[fedora]
+[loadbalancer]
 localhost:2200
 
+[database]
+localhost:2201
+
+[apps]
+localhost:2202
+localhost:2203
+
+[control]
+control ansible_connection=local
