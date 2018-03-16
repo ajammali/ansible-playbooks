@@ -1,0 +1,12 @@
+- hosts: loadbalancer
+  become: true
+  tasks:
+    - name: install nginx
+      package:
+        name: nginx
+        state: latest
+    - name: ensure nginx started
+      service:
+        name: nginx
+        state: started
+        enabled: yes

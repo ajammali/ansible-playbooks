@@ -2,14 +2,14 @@
 localhost:2222
 
 [loadbalancer]
-localhost:2200
-
-[database]
 localhost:2201
 
-[apps]
+[database]
 localhost:2202
+
+[webservers]
 localhost:2203
+localhost:2204
 
 [control]
 control ansible_connection=local

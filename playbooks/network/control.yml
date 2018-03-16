@@ -1,0 +1,8 @@
+
+- hosts: network
+  become: true
+  tasks:
+    - name: Install tools
+      package: name={{item}} state=present
+      with_items:
+        - curl

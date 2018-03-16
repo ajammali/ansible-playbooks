@@ -2,69 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2133ba59-8e0f-4187-b2c0-92f29ee4f236" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sh-scripts/export_variables.sh" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ansible/.ansible.cfg.swp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/centos_directory/.Vagrantfile.swo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/centos_directory/.Vagrantfile.swp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/centos_directory/.vagrant/machines/default/virtualbox/action_provision" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/centos_directory/.vagrant/machines/default/virtualbox/action_set_name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/centos_directory/.vagrant/machines/default/virtualbox/creator_uid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/centos_directory/.vagrant/machines/default/virtualbox/id" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/centos_directory/.vagrant/machines/default/virtualbox/index_uuid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/centos_directory/.vagrant/machines/default/virtualbox/private_key" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/centos_directory/.vagrant/machines/default/virtualbox/synced_folders" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/centos_directory/.vagrant/machines/default/virtualbox/vagrant_cwd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/centos_directory/Vagrantfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fedora/.vagrant/machines/default/virtualbox/action_provision" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fedora/.vagrant/machines/default/virtualbox/action_set_name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fedora/.vagrant/machines/default/virtualbox/creator_uid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fedora/.vagrant/machines/default/virtualbox/id" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fedora/.vagrant/machines/default/virtualbox/index_uuid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fedora/.vagrant/machines/default/virtualbox/private_key" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fedora/.vagrant/machines/default/virtualbox/synced_folders" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fedora/.vagrant/machines/default/virtualbox/vagrant_cwd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fedora/Vagrantfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubuntu14.04/.vagrant/machines/default/virtualbox/action_provision" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubuntu14.04/.vagrant/machines/default/virtualbox/action_set_name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubuntu14.04/.vagrant/machines/default/virtualbox/creator_uid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubuntu14.04/.vagrant/machines/default/virtualbox/id" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubuntu14.04/.vagrant/machines/default/virtualbox/index_uuid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubuntu14.04/.vagrant/machines/default/virtualbox/private_key" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubuntu14.04/.vagrant/machines/default/virtualbox/synced_folders" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubuntu14.04/.vagrant/machines/default/virtualbox/vagrant_cwd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubuntu14.04/Vagrantfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/centos/.vagrant/machines/default/virtualbox/action_provision" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/centos/.vagrant/machines/default/virtualbox/action_set_name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/centos/.vagrant/machines/default/virtualbox/creator_uid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/centos/.vagrant/machines/default/virtualbox/id" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/centos/.vagrant/machines/default/virtualbox/index_uuid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/centos/.vagrant/machines/default/virtualbox/private_key" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/centos/.vagrant/machines/default/virtualbox/synced_folders" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/centos/.vagrant/machines/default/virtualbox/vagrant_cwd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/centos/Vagrantfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/fedora/.vagrant/machines/default/virtualbox/action_provision" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/fedora/.vagrant/machines/default/virtualbox/action_set_name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/fedora/.vagrant/machines/default/virtualbox/creator_uid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/fedora/.vagrant/machines/default/virtualbox/id" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/fedora/.vagrant/machines/default/virtualbox/index_uuid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/fedora/.vagrant/machines/default/virtualbox/private_key" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/fedora/.vagrant/machines/default/virtualbox/synced_folders" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/fedora/.vagrant/machines/default/virtualbox/vagrant_cwd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/fedora/Vagrantfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/ubuntu/.vagrant/machines/default/virtualbox/action_provision" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/ubuntu/.vagrant/machines/default/virtualbox/action_set_name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/ubuntu/.vagrant/machines/default/virtualbox/creator_uid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/ubuntu/.vagrant/machines/default/virtualbox/id" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/ubuntu/.vagrant/machines/default/virtualbox/index_uuid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/ubuntu/.vagrant/machines/default/virtualbox/private_key" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/ubuntu/.vagrant/machines/default/virtualbox/synced_folders" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/ubuntu/.vagrant/machines/default/virtualbox/vagrant_cwd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vagrant/ubuntu/Vagrantfile" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playbooks/load-balancer/loadbalancer.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playbooks/network/control.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playbooks/network/stack_restart.yml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/playbooks/loadbalancer.yaml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/playbooks/database.yaml" afterPath="$PROJECT_DIR$/playbooks/database/database.yaml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/playbooks/debug.yaml" afterPath="$PROJECT_DIR$/playbooks/others/debug.yaml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/playbooks/notify.yaml" afterPath="$PROJECT_DIR$/playbooks/others/notify.yaml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/playbooks/structure.yaml" afterPath="$PROJECT_DIR$/playbooks/others/structure.yaml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/playbooks/uninstall-httpd.yaml" afterPath="$PROJECT_DIR$/playbooks/others/uninstall-httpd.yaml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/playbooks/variable-substitution.yaml" afterPath="$PROJECT_DIR$/playbooks/others/variable-substitution.yaml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/playbooks/variable-test.yaml" afterPath="$PROJECT_DIR$/playbooks/others/variable-test.yaml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/playbooks/webservers.yml" afterPath="$PROJECT_DIR$/playbooks/apps/webservers.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ansible.cfg" afterPath="$PROJECT_DIR$/ansible.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ansible/playbooks/database.yml" afterPath="$PROJECT_DIR$/ansible/playbooks/database.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ansible/playbooks/loadbalancer.yml" afterPath="$PROJECT_DIR$/ansible/playbooks/loadbalancer.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hosts" afterPath="$PROJECT_DIR$/hosts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vagrant/database/Vagrantfile" afterPath="$PROJECT_DIR$/vagrant/database/Vagrantfile" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -76,20 +28,20 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="webservers.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/playbooks/webservers.yml">
+        <entry file="file://$PROJECT_DIR$/playbooks/apps/webservers.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            <state relative-caret-position="306">
+              <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hosts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hosts">
+      <file leaf-file-name="notify.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/playbooks/others/notify.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -100,6 +52,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>remote_user</find>
+      <find>ansible</find>
+      <find>= ansible</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -117,12 +71,19 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/playbooks/uninstall-httpd.yaml" />
-        <option value="$PROJECT_DIR$/ansible.cfg" />
         <option value="$PROJECT_DIR$/ansible/playbooks/database.yml" />
         <option value="$PROJECT_DIR$/ansible/playbooks/loadbalancer.yml" />
         <option value="$PROJECT_DIR$/sh-scripts/export_variables.sh" />
         <option value="$PROJECT_DIR$/playbooks/variable-substitution.yaml" />
+        <option value="$PROJECT_DIR$/playbooks/webservers.yml" />
+        <option value="$PROJECT_DIR$/ansible.cfg" />
+        <option value="$PROJECT_DIR$/playbooks/loadbalancer.yaml" />
+        <option value="$PROJECT_DIR$/playbooks/load-balancer/loadbalancer.yaml" />
         <option value="$PROJECT_DIR$/hosts" />
+        <option value="$PROJECT_DIR$/playbooks/network/control.yml" />
+        <option value="$PROJECT_DIR$/playbooks/database/database.yaml" />
+        <option value="$PROJECT_DIR$/playbooks/network/stack_restart.yml" />
+        <option value="$PROJECT_DIR$/playbooks/apps/webservers.yml" />
       </list>
     </option>
   </component>
@@ -152,8 +113,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -165,18 +124,37 @@
             <path>
               <item name="ansible-playbooks" type="b2602c69:ProjectViewProjectNode" />
               <item name="ansible-playbooks" type="462c0819:PsiDirectoryNode" />
-              <item name="ansible" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ansible-playbooks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ansible-playbooks" type="462c0819:PsiDirectoryNode" />
-              <item name="ansible" type="462c0819:PsiDirectoryNode" />
               <item name="playbooks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ansible-playbooks" type="b2602c69:ProjectViewProjectNode" />
               <item name="ansible-playbooks" type="462c0819:PsiDirectoryNode" />
               <item name="playbooks" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ansible-playbooks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ansible-playbooks" type="462c0819:PsiDirectoryNode" />
+              <item name="playbooks" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ansible-playbooks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ansible-playbooks" type="462c0819:PsiDirectoryNode" />
+              <item name="playbooks" type="462c0819:PsiDirectoryNode" />
+              <item name="load-balancer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ansible-playbooks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ansible-playbooks" type="462c0819:PsiDirectoryNode" />
+              <item name="playbooks" type="462c0819:PsiDirectoryNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ansible-playbooks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ansible-playbooks" type="462c0819:PsiDirectoryNode" />
+              <item name="playbooks" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ansible-playbooks" type="b2602c69:ProjectViewProjectNode" />
@@ -187,13 +165,26 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../financial" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/playbooks/others" />
+      <recent name="$PROJECT_DIR$/playbooks/load-balancer" />
+      <recent name="$PROJECT_DIR$/playbooks/apps" />
+      <recent name="$PROJECT_DIR$/playbooks/database" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/playbooks" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -311,12 +302,13 @@
       <workItem from="1521040846306" duration="139000" />
       <workItem from="1521102160657" duration="53000" />
       <workItem from="1521128451409" duration="464000" />
-      <workItem from="1521132129824" duration="133000" />
+      <workItem from="1521132129824" duration="1902000" />
+      <workItem from="1521207893393" duration="7741000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11398000" />
+    <option name="totallyTimeSpent" value="20908000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1217" height="1036" extended-state="6" />
@@ -331,7 +323,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2452675" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -361,7 +353,23 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/playbooks/webservers.yml">
+    <entry file="file://$PROJECT_DIR$/playbooks/apps/webservers.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hosts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playbooks/apps/webservers.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="15" />
@@ -377,14 +385,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/playbooks/variable-substitution.yaml">
+    <entry file="file://$PROJECT_DIR$/playbooks/others/variable-substitution.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/playbooks/variable-test.yaml">
+    <entry file="file://$PROJECT_DIR$/playbooks/others/variable-test.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -426,42 +434,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/playbooks/variable-substitution.yaml">
+    <entry file="file://$PROJECT_DIR$/playbooks/others/variable-substitution.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/playbooks/variable-test.yaml">
+    <entry file="file://$PROJECT_DIR$/playbooks/others/variable-test.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/playbooks/uninstall-httpd.yaml">
+    <entry file="file://$PROJECT_DIR$/playbooks/others/uninstall-httpd.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/playbooks/variable-substitution.yaml">
+    <entry file="file://$PROJECT_DIR$/playbooks/others/variable-substitution.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/playbooks/variable-test.yaml">
+    <entry file="file://$PROJECT_DIR$/playbooks/others/variable-test.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/playbooks/uninstall-httpd.yaml">
+    <entry file="file://$PROJECT_DIR$/playbooks/others/uninstall-httpd.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
@@ -475,24 +483,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ansible.cfg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playbooks/uninstall-httpd.yaml">
+    <entry file="file://$PROJECT_DIR$/playbooks/others/uninstall-httpd.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playbooks/loadbalancer.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -510,14 +504,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/playbooks/variable-test.yaml">
+    <entry file="file://$PROJECT_DIR$/playbooks/others/variable-test.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/playbooks/variable-substitution.yaml">
+    <entry file="file://$PROJECT_DIR$/playbooks/others/variable-substitution.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
@@ -532,6 +526,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ansible.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="96" column="14" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playbooks/load-balancer/loadbalancer.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hosts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -540,10 +550,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/playbooks/webservers.yml">
+    <entry file="file://$PROJECT_DIR$/playbooks/network/control.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playbooks/database/database.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playbooks/network/stack_restart.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playbooks/others/notify.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playbooks/apps/webservers.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
           <folding />
         </state>
       </provider>

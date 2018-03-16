@@ -1,0 +1,8 @@
+- hosts: ubuntu
+  become: yes
+  tasks: 
+    - name: Install mySQL server
+      package: name=mysql-server state=latest
+
+    - name: ensure mysql server is started
+      service: name=mysql state=started enabled=yes
